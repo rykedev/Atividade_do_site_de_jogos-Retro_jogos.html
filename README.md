@@ -1,8 +1,8 @@
-🎮 GameZone - Jogos Retrô
+**🎮 GameZone - Jogos Retrô**
 
 Este projeto consiste em uma página web simples desenvolvida em HTML5 para exibir o catálogo de consoles e jogos retrô disponíveis em mídia física na loja GameZone.
 
-📌 Demonstração e Conteúdo
+**📌 Demonstração e Conteúdo**
 
 A página contém:
 
@@ -12,11 +12,11 @@ Consoles Disponíveis: Lista com plataformas clássicas como Atari 2600, NES, Me
 
 Tabela de Jogos: Catálogo contendo os títulos disponíveis em mídia física, com preços e quantidade em estoque.
 
-🛠️ Tecnologias Utilizadas
+**🛠️ Tecnologias Utilizadas**
 
 HTML5: Estruturação semântica do conteúdo, listas, links e tabelas.
 
-📁 Estrutura de Arquivos
+**📁 Estrutura de Arquivos**
 
 .
 ├── assets/
@@ -25,7 +25,7 @@ HTML5: Estruturação semântica do conteúdo, listas, links e tabelas.
 └── README.md                    # Documentação do projeto
 
 
-🚀 Como Executar o Projeto
+**🚀 Como Executar o Projeto**
 
 Faça o clone ou download deste repositório.
 
@@ -33,7 +33,7 @@ Certifique-se de que a imagem retro gamezone (2).png esteja localizada dentro da
 
 Abra o arquivo Retro_jogos.html em qualquer navegador web de sua preferência (Google Chrome, Firefox, Edge, etc.).
 
-✍️ Autor
+**✍️ Autor**
 
 Desenvolvido por Rykedev.
 
